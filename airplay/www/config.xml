@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="au.com.agiledigital.airplay" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>AngularAirplay</name>
+<widget id="au.com.agiledigital.airplaynoplugin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>AngularAirplayNoPlugin</name>
     <description>
         Uses the sample Angular Phone Catalog sample but airplay enabled
     </description>
